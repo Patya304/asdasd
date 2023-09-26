@@ -1,0 +1,60 @@
+*
+{
+    margin: 0;
+    font-family: arial;
+}
+div#keret
+{
+    margin: 0 auto;
+}
+
+div#felso
+{
+    width: 760px;
+    height: 114px;
+    background-image: url('img/header.jpg');
+    text-align: center;
+    color: #484848;
+    
+}
+
+div#felso h1
+{
+    padding-top: 24px;
+}
+
+div#bal h2
+{
+    padding: 12px;
+}
+
+div#bal h3
+{
+    padding: 24px;
+}
+
+div#bal p
+{
+    padding-left: 24px;
+    padding-bottom: 12px;
+}
+
+div#bal 
+{
+    float: left;
+    width: 200px;
+    height: 480px;
+    color: #800000;
+    background-image: url('img/menualja.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom;
+
+}
+
+div#jobb
+{
+    margin-left: 200px;
+    width: 560px;
+    height: 360px;
+    background-color: orange;
+}
